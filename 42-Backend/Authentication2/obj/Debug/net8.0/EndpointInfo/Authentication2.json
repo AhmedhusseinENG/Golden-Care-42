@@ -1,0 +1,366 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Authentication2",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Auth/register/patient": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "Username": {
+                    "type": "string"
+                  },
+                  "Password": {
+                    "type": "string"
+                  },
+                  "Email": {
+                    "type": "string"
+                  },
+                  "Gender": {
+                    "type": "string"
+                  },
+                  "Image": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "Username": {
+                  "style": "form"
+                },
+                "Password": {
+                  "style": "form"
+                },
+                "Email": {
+                  "style": "form"
+                },
+                "Gender": {
+                  "style": "form"
+                },
+                "Image": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Auth/register/companion": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "Username": {
+                    "type": "string"
+                  },
+                  "Password": {
+                    "type": "string"
+                  },
+                  "Email": {
+                    "type": "string"
+                  },
+                  "Gender": {
+                    "type": "string"
+                  },
+                  "Image": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "PatientId": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "Username": {
+                  "style": "form"
+                },
+                "Password": {
+                  "style": "form"
+                },
+                "Email": {
+                  "style": "form"
+                },
+                "Gender": {
+                  "style": "form"
+                },
+                "Image": {
+                  "style": "form"
+                },
+                "PatientId": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Auth/login": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Medicine/getAllMedicines/{id}": {
+      "get": {
+        "tags": [
+          "Medicine"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Medicine/addMedicine": {
+      "post": {
+        "tags": [
+          "Medicine"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "MedicineName": {
+                    "type": "string"
+                  },
+                  "PatientID": {
+                    "type": "string"
+                  },
+                  "MedicineDosage": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "StartTime": {
+                    "type": "string",
+                    "format": "date-time"
+                  },
+                  "MedicineNumTimes": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "MedicineImage": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "MedicineName": {
+                  "style": "form"
+                },
+                "PatientID": {
+                  "style": "form"
+                },
+                "MedicineDosage": {
+                  "style": "form"
+                },
+                "StartTime": {
+                  "style": "form"
+                },
+                "MedicineNumTimes": {
+                  "style": "form"
+                },
+                "MedicineImage": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Medicine/updateMedicine/{id}": {
+      "put": {
+        "tags": [
+          "Medicine"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "PatientID": {
+                    "type": "string"
+                  },
+                  "MedicineName": {
+                    "type": "string"
+                  },
+                  "MedicineDosage": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "StartTime": {
+                    "type": "string",
+                    "format": "date-time"
+                  },
+                  "MedicineNumTimes": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "MedicineImage": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "PatientID": {
+                  "style": "form"
+                },
+                "MedicineName": {
+                  "style": "form"
+                },
+                "MedicineDosage": {
+                  "style": "form"
+                },
+                "StartTime": {
+                  "style": "form"
+                },
+                "MedicineNumTimes": {
+                  "style": "form"
+                },
+                "MedicineImage": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Medicine/deleteMedicine/{id}": {
+      "delete": {
+        "tags": [
+          "Medicine"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "LoginDto": {
+        "type": "object",
+        "properties": {
+          "username": {
+            "type": "string",
+            "nullable": true
+          },
+          "email": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

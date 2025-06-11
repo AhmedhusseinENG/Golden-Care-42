@@ -1,0 +1,117 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\123.jpg",
+      "PackagePath": "staticwebassets\\MedicineImages\\123.jpg"
+    },
+    {
+      "Id": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\17.jpg",
+      "PackagePath": "staticwebassets\\MedicineImages\\17.jpg"
+    },
+    {
+      "Id": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\314784.jpg",
+      "PackagePath": "staticwebassets\\MedicineImages\\314784.jpg"
+    },
+    {
+      "Id": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\3333.jpg",
+      "PackagePath": "staticwebassets\\MedicineImages\\3333.jpg"
+    },
+    {
+      "Id": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\55.png",
+      "PackagePath": "staticwebassets\\MedicineImages\\55.png"
+    },
+    {
+      "Id": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\6666.png",
+      "PackagePath": "staticwebassets\\MedicineImages\\6666.png"
+    },
+    {
+      "Id": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\789.png",
+      "PackagePath": "staticwebassets\\MedicineImages\\789.png"
+    },
+    {
+      "Id": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\796832.jpg",
+      "PackagePath": "staticwebassets\\MedicineImages\\796832.jpg"
+    },
+    {
+      "Id": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\999.jpg",
+      "PackagePath": "staticwebassets\\MedicineImages\\999.jpg"
+    },
+    {
+      "Id": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\Mind Map.png",
+      "PackagePath": "staticwebassets\\MedicineImages\\Mind Map.png"
+    },
+    {
+      "Id": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\applicatio on react js .png",
+      "PackagePath": "staticwebassets\\MedicineImages\\applicatio on react js .png"
+    },
+    {
+      "Id": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\biling.png",
+      "PackagePath": "staticwebassets\\MedicineImages\\biling.png"
+    },
+    {
+      "Id": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\frontend.jpg",
+      "PackagePath": "staticwebassets\\MedicineImages\\frontend.jpg"
+    },
+    {
+      "Id": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\watch later.png",
+      "PackagePath": "staticwebassets\\MedicineImages\\watch later.png"
+    },
+    {
+      "Id": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\111111.png",
+      "PackagePath": "staticwebassets\\uploads\\111111.png"
+    },
+    {
+      "Id": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\123.jpg",
+      "PackagePath": "staticwebassets\\uploads\\123.jpg"
+    },
+    {
+      "Id": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\123.png",
+      "PackagePath": "staticwebassets\\uploads\\123.png"
+    },
+    {
+      "Id": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\55.png",
+      "PackagePath": "staticwebassets\\uploads\\55.png"
+    },
+    {
+      "Id": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\7777.png",
+      "PackagePath": "staticwebassets\\uploads\\7777.png"
+    },
+    {
+      "Id": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\796832.jpg",
+      "PackagePath": "staticwebassets\\uploads\\796832.jpg"
+    },
+    {
+      "Id": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\888888.png",
+      "PackagePath": "staticwebassets\\uploads\\888888.png"
+    },
+    {
+      "Id": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\Ahmed_Hussein.jpg",
+      "PackagePath": "staticwebassets\\uploads\\Ahmed_Hussein.jpg"
+    },
+    {
+      "Id": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\biling.png",
+      "PackagePath": "staticwebassets\\uploads\\biling.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Authentication2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Authentication2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Authentication2.props",
+      "PackagePath": "build\\Authentication2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Authentication2.props",
+      "PackagePath": "buildMultiTargeting\\Authentication2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Authentication2.props",
+      "PackagePath": "buildTransitive\\Authentication2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

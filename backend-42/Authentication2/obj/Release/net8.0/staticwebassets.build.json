@@ -1,0 +1,2391 @@
+{
+  "Version": 1,
+  "Hash": "sizmtBE8nr/YezzhMfk/FThIn1D9qbc14dTKHmcnyZI=",
+  "Source": "Authentication2",
+  "BasePath": "_content/Authentication2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Authentication2\\wwwroot",
+      "Source": "Authentication2",
+      "ContentRoot": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\",
+      "BasePath": "_content/Authentication2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\123.jpg",
+      "SourceId": "Authentication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\",
+      "BasePath": "_content/Authentication2",
+      "RelativePath": "MedicineImages/123#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1q3fbqb76q",
+      "Integrity": "mcNwpM0aiMR3i/VOoOb0FJMOUdBZdV6Lh2tbvDmhCPw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MedicineImages\\123.jpg"
+    },
+    {
+      "Identity": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\17.jpg",
+      "SourceId": "Authentication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\",
+      "BasePath": "_content/Authentication2",
+      "RelativePath": "MedicineImages/17#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ypgeqdq91i",
+      "Integrity": "2iUAXBY9LLGExRtWGoptTpvHftm2fLVyVjS6ljpJKeo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MedicineImages\\17.jpg"
+    },
+    {
+      "Identity": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\314784.jpg",
+      "SourceId": "Authentication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\",
+      "BasePath": "_content/Authentication2",
+      "RelativePath": "MedicineImages/314784#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rtp0e8r2vy",
+      "Integrity": "v6CGxj5pR6ZcvhKWO3iHYrRjR4+okDghK3TklR6XceQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MedicineImages\\314784.jpg"
+    },
+    {
+      "Identity": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\3333.jpg",
+      "SourceId": "Authentication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\",
+      "BasePath": "_content/Authentication2",
+      "RelativePath": "MedicineImages/3333#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r6pbpjcjif",
+      "Integrity": "vUZLV/NAF7KtLtULXmQnmzhqto+IFuLKs+sP49CV5gM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MedicineImages\\3333.jpg"
+    },
+    {
+      "Identity": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\55.png",
+      "SourceId": "Authentication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\",
+      "BasePath": "_content/Authentication2",
+      "RelativePath": "MedicineImages/55#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vd38l3emhu",
+      "Integrity": "I0T1uSahjmAPSmfvkjPbhzoHqDHaoUTtpHi2cntPVpA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MedicineImages\\55.png"
+    },
+    {
+      "Identity": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\6666.png",
+      "SourceId": "Authentication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\",
+      "BasePath": "_content/Authentication2",
+      "RelativePath": "MedicineImages/6666#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "io406nsv0j",
+      "Integrity": "TuaFM+2LpfTCcFbjF32YObmy4smE6Ds3MfP1E+QqJ60=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MedicineImages\\6666.png"
+    },
+    {
+      "Identity": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\789.png",
+      "SourceId": "Authentication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\",
+      "BasePath": "_content/Authentication2",
+      "RelativePath": "MedicineImages/789#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zobstcl8re",
+      "Integrity": "M2eMdsJnc8INy1OJGrxaBkj2mb7P9ki9jr2OWLH5W8g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MedicineImages\\789.png"
+    },
+    {
+      "Identity": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\796832.jpg",
+      "SourceId": "Authentication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\",
+      "BasePath": "_content/Authentication2",
+      "RelativePath": "MedicineImages/796832#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "223m0wtjxa",
+      "Integrity": "Bjf/VpqKSay2rgbxa/YdD6KzvQ9J22FcnzyICZGHZT8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MedicineImages\\796832.jpg"
+    },
+    {
+      "Identity": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\999.jpg",
+      "SourceId": "Authentication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\",
+      "BasePath": "_content/Authentication2",
+      "RelativePath": "MedicineImages/999#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3e3y4mq1du",
+      "Integrity": "VT78PjazdVXmZEz+k6JVTZdmjAeGSuuMyCDaHl7NVao=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MedicineImages\\999.jpg"
+    },
+    {
+      "Identity": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\applicatio on react js .png",
+      "SourceId": "Authentication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\",
+      "BasePath": "_content/Authentication2",
+      "RelativePath": "MedicineImages/applicatio on react js #[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0hbo9o7s1f",
+      "Integrity": "FMl8MluvD2tOLKVR2Sg7e1/Wv9UdWA3ClwO9DciRxic=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MedicineImages\\applicatio on react js .png"
+    },
+    {
+      "Identity": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\biling.png",
+      "SourceId": "Authentication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\",
+      "BasePath": "_content/Authentication2",
+      "RelativePath": "MedicineImages/biling#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wpom3x3fyd",
+      "Integrity": "XOLqmhrhCXiwKAgRY3Evg6JXl+4h0aYba6RYaK2ZeTE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MedicineImages\\biling.png"
+    },
+    {
+      "Identity": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\frontend.jpg",
+      "SourceId": "Authentication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\",
+      "BasePath": "_content/Authentication2",
+      "RelativePath": "MedicineImages/frontend#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fj3svurm8m",
+      "Integrity": "FRhiA48DbGPhX4DhTfjMGW9OmxYr1OawNpsrY5Zi67Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MedicineImages\\frontend.jpg"
+    },
+    {
+      "Identity": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\Mind Map.png",
+      "SourceId": "Authentication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\",
+      "BasePath": "_content/Authentication2",
+      "RelativePath": "MedicineImages/Mind Map#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m0kqkxlmox",
+      "Integrity": "1m/Eb8gSquRYOwD0p5rvUsH4/qiyJSaKAg8gxsPW5Ww=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MedicineImages\\Mind Map.png"
+    },
+    {
+      "Identity": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\watch later.png",
+      "SourceId": "Authentication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\",
+      "BasePath": "_content/Authentication2",
+      "RelativePath": "MedicineImages/watch later#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "37omjlkd5s",
+      "Integrity": "/wrydAi030slZSgmZDxeEIasG+43EP82JhTmgpktrw4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MedicineImages\\watch later.png"
+    },
+    {
+      "Identity": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\111111.png",
+      "SourceId": "Authentication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\",
+      "BasePath": "_content/Authentication2",
+      "RelativePath": "uploads/111111#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5yxzihjpxu",
+      "Integrity": "nTxHo9xvFVQeZNMDK3+XzF+/SMlNNnhtg01to9PYOaE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\111111.png"
+    },
+    {
+      "Identity": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\123.jpg",
+      "SourceId": "Authentication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\",
+      "BasePath": "_content/Authentication2",
+      "RelativePath": "uploads/123#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1q3fbqb76q",
+      "Integrity": "mcNwpM0aiMR3i/VOoOb0FJMOUdBZdV6Lh2tbvDmhCPw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\123.jpg"
+    },
+    {
+      "Identity": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\123.png",
+      "SourceId": "Authentication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\",
+      "BasePath": "_content/Authentication2",
+      "RelativePath": "uploads/123#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jva2ms8y1f",
+      "Integrity": "cZZmQD9ZrubaR6cemWPbnPFzgJbID1H+nXXA/QR8a4Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\123.png"
+    },
+    {
+      "Identity": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\55.png",
+      "SourceId": "Authentication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\",
+      "BasePath": "_content/Authentication2",
+      "RelativePath": "uploads/55#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vd38l3emhu",
+      "Integrity": "I0T1uSahjmAPSmfvkjPbhzoHqDHaoUTtpHi2cntPVpA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\55.png"
+    },
+    {
+      "Identity": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\7777.png",
+      "SourceId": "Authentication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\",
+      "BasePath": "_content/Authentication2",
+      "RelativePath": "uploads/7777#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ybyqbk1h4p",
+      "Integrity": "ssRUfQvTXmH5BKWLLRKr0waZ4Q+USjKXpceSQfD755k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\7777.png"
+    },
+    {
+      "Identity": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\796832.jpg",
+      "SourceId": "Authentication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\",
+      "BasePath": "_content/Authentication2",
+      "RelativePath": "uploads/796832#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "223m0wtjxa",
+      "Integrity": "Bjf/VpqKSay2rgbxa/YdD6KzvQ9J22FcnzyICZGHZT8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\796832.jpg"
+    },
+    {
+      "Identity": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\888888.png",
+      "SourceId": "Authentication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\",
+      "BasePath": "_content/Authentication2",
+      "RelativePath": "uploads/888888#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3r8aoxjs2v",
+      "Integrity": "MUl3ueA2UJzqvEjz34qvE4ZFPNBUg4N6/VHqiXcoaPo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\888888.png"
+    },
+    {
+      "Identity": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\Ahmed_Hussein.jpg",
+      "SourceId": "Authentication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\",
+      "BasePath": "_content/Authentication2",
+      "RelativePath": "uploads/Ahmed_Hussein#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dvlbs6gzgk",
+      "Integrity": "h4j2U9rrSXXCqgNn82fENmXhXoRK6eqJp4RDa1v5fkQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Ahmed_Hussein.jpg"
+    },
+    {
+      "Identity": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\biling.png",
+      "SourceId": "Authentication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\",
+      "BasePath": "_content/Authentication2",
+      "RelativePath": "uploads/biling#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wpom3x3fyd",
+      "Integrity": "XOLqmhrhCXiwKAgRY3Evg6JXl+4h0aYba6RYaK2ZeTE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\biling.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "MedicineImages/123.1q3fbqb76q.jpg",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\123.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "276748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mcNwpM0aiMR3i/VOoOb0FJMOUdBZdV6Lh2tbvDmhCPw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 18:47:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1q3fbqb76q"
+        },
+        {
+          "Name": "label",
+          "Value": "MedicineImages/123.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mcNwpM0aiMR3i/VOoOb0FJMOUdBZdV6Lh2tbvDmhCPw="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/123.jpg",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\123.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "276748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mcNwpM0aiMR3i/VOoOb0FJMOUdBZdV6Lh2tbvDmhCPw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 18:47:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mcNwpM0aiMR3i/VOoOb0FJMOUdBZdV6Lh2tbvDmhCPw="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/17.jpg",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\17.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44719"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2iUAXBY9LLGExRtWGoptTpvHftm2fLVyVjS6ljpJKeo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 18:48:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2iUAXBY9LLGExRtWGoptTpvHftm2fLVyVjS6ljpJKeo="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/17.ypgeqdq91i.jpg",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\17.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44719"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2iUAXBY9LLGExRtWGoptTpvHftm2fLVyVjS6ljpJKeo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 18:48:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ypgeqdq91i"
+        },
+        {
+          "Name": "label",
+          "Value": "MedicineImages/17.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2iUAXBY9LLGExRtWGoptTpvHftm2fLVyVjS6ljpJKeo="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/314784.jpg",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\314784.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113066"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v6CGxj5pR6ZcvhKWO3iHYrRjR4+okDghK3TklR6XceQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 12:23:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v6CGxj5pR6ZcvhKWO3iHYrRjR4+okDghK3TklR6XceQ="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/314784.rtp0e8r2vy.jpg",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\314784.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113066"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v6CGxj5pR6ZcvhKWO3iHYrRjR4+okDghK3TklR6XceQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 12:23:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rtp0e8r2vy"
+        },
+        {
+          "Name": "label",
+          "Value": "MedicineImages/314784.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v6CGxj5pR6ZcvhKWO3iHYrRjR4+okDghK3TklR6XceQ="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/3333.jpg",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\3333.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vUZLV/NAF7KtLtULXmQnmzhqto+IFuLKs+sP49CV5gM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 12:59:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vUZLV/NAF7KtLtULXmQnmzhqto+IFuLKs+sP49CV5gM="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/3333.r6pbpjcjif.jpg",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\3333.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vUZLV/NAF7KtLtULXmQnmzhqto+IFuLKs+sP49CV5gM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 12:59:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r6pbpjcjif"
+        },
+        {
+          "Name": "label",
+          "Value": "MedicineImages/3333.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vUZLV/NAF7KtLtULXmQnmzhqto+IFuLKs+sP49CV5gM="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/55.png",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\55.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I0T1uSahjmAPSmfvkjPbhzoHqDHaoUTtpHi2cntPVpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 19:07:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I0T1uSahjmAPSmfvkjPbhzoHqDHaoUTtpHi2cntPVpA="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/55.vd38l3emhu.png",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\55.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I0T1uSahjmAPSmfvkjPbhzoHqDHaoUTtpHi2cntPVpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 19:07:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vd38l3emhu"
+        },
+        {
+          "Name": "label",
+          "Value": "MedicineImages/55.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I0T1uSahjmAPSmfvkjPbhzoHqDHaoUTtpHi2cntPVpA="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/6666.io406nsv0j.png",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\6666.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TuaFM+2LpfTCcFbjF32YObmy4smE6Ds3MfP1E+QqJ60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 15:18:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "io406nsv0j"
+        },
+        {
+          "Name": "label",
+          "Value": "MedicineImages/6666.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TuaFM+2LpfTCcFbjF32YObmy4smE6Ds3MfP1E+QqJ60="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/6666.png",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\6666.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TuaFM+2LpfTCcFbjF32YObmy4smE6Ds3MfP1E+QqJ60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 15:18:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TuaFM+2LpfTCcFbjF32YObmy4smE6Ds3MfP1E+QqJ60="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/789.png",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\789.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "988345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M2eMdsJnc8INy1OJGrxaBkj2mb7P9ki9jr2OWLH5W8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 14:25:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M2eMdsJnc8INy1OJGrxaBkj2mb7P9ki9jr2OWLH5W8g="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/789.zobstcl8re.png",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\789.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "988345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M2eMdsJnc8INy1OJGrxaBkj2mb7P9ki9jr2OWLH5W8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 14:25:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zobstcl8re"
+        },
+        {
+          "Name": "label",
+          "Value": "MedicineImages/789.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M2eMdsJnc8INy1OJGrxaBkj2mb7P9ki9jr2OWLH5W8g="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/796832.223m0wtjxa.jpg",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\796832.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "294652"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bjf/VpqKSay2rgbxa/YdD6KzvQ9J22FcnzyICZGHZT8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 16:47:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "223m0wtjxa"
+        },
+        {
+          "Name": "label",
+          "Value": "MedicineImages/796832.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bjf/VpqKSay2rgbxa/YdD6KzvQ9J22FcnzyICZGHZT8="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/796832.jpg",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\796832.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "294652"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bjf/VpqKSay2rgbxa/YdD6KzvQ9J22FcnzyICZGHZT8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 16:47:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bjf/VpqKSay2rgbxa/YdD6KzvQ9J22FcnzyICZGHZT8="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/999.3e3y4mq1du.jpg",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\999.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180955"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VT78PjazdVXmZEz+k6JVTZdmjAeGSuuMyCDaHl7NVao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 14:28:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3e3y4mq1du"
+        },
+        {
+          "Name": "label",
+          "Value": "MedicineImages/999.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VT78PjazdVXmZEz+k6JVTZdmjAeGSuuMyCDaHl7NVao="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/999.jpg",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\999.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180955"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VT78PjazdVXmZEz+k6JVTZdmjAeGSuuMyCDaHl7NVao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 14:28:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VT78PjazdVXmZEz+k6JVTZdmjAeGSuuMyCDaHl7NVao="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/applicatio on react js .0hbo9o7s1f.png",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\applicatio on react js .png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1146417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FMl8MluvD2tOLKVR2Sg7e1/Wv9UdWA3ClwO9DciRxic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:42:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0hbo9o7s1f"
+        },
+        {
+          "Name": "label",
+          "Value": "MedicineImages/applicatio on react js .png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FMl8MluvD2tOLKVR2Sg7e1/Wv9UdWA3ClwO9DciRxic="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/applicatio on react js .png",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\applicatio on react js .png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1146417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FMl8MluvD2tOLKVR2Sg7e1/Wv9UdWA3ClwO9DciRxic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:42:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FMl8MluvD2tOLKVR2Sg7e1/Wv9UdWA3ClwO9DciRxic="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/biling.png",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\biling.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92510"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XOLqmhrhCXiwKAgRY3Evg6JXl+4h0aYba6RYaK2ZeTE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 14:24:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XOLqmhrhCXiwKAgRY3Evg6JXl+4h0aYba6RYaK2ZeTE="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/biling.wpom3x3fyd.png",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\biling.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92510"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XOLqmhrhCXiwKAgRY3Evg6JXl+4h0aYba6RYaK2ZeTE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 14:24:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wpom3x3fyd"
+        },
+        {
+          "Name": "label",
+          "Value": "MedicineImages/biling.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XOLqmhrhCXiwKAgRY3Evg6JXl+4h0aYba6RYaK2ZeTE="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/frontend.fj3svurm8m.jpg",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\frontend.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109815"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FRhiA48DbGPhX4DhTfjMGW9OmxYr1OawNpsrY5Zi67Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 13:31:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fj3svurm8m"
+        },
+        {
+          "Name": "label",
+          "Value": "MedicineImages/frontend.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FRhiA48DbGPhX4DhTfjMGW9OmxYr1OawNpsrY5Zi67Y="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/frontend.jpg",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\frontend.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109815"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FRhiA48DbGPhX4DhTfjMGW9OmxYr1OawNpsrY5Zi67Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 13:31:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FRhiA48DbGPhX4DhTfjMGW9OmxYr1OawNpsrY5Zi67Y="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/Mind Map.m0kqkxlmox.png",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\Mind Map.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "425436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1m/Eb8gSquRYOwD0p5rvUsH4/qiyJSaKAg8gxsPW5Ww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 12:08:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m0kqkxlmox"
+        },
+        {
+          "Name": "label",
+          "Value": "MedicineImages/Mind Map.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1m/Eb8gSquRYOwD0p5rvUsH4/qiyJSaKAg8gxsPW5Ww="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/Mind Map.png",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\Mind Map.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "425436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1m/Eb8gSquRYOwD0p5rvUsH4/qiyJSaKAg8gxsPW5Ww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 12:08:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1m/Eb8gSquRYOwD0p5rvUsH4/qiyJSaKAg8gxsPW5Ww="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/watch later.37omjlkd5s.png",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\watch later.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1173470"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/wrydAi030slZSgmZDxeEIasG+43EP82JhTmgpktrw4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 12:41:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "37omjlkd5s"
+        },
+        {
+          "Name": "label",
+          "Value": "MedicineImages/watch later.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/wrydAi030slZSgmZDxeEIasG+43EP82JhTmgpktrw4="
+        }
+      ]
+    },
+    {
+      "Route": "MedicineImages/watch later.png",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\MedicineImages\\watch later.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1173470"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/wrydAi030slZSgmZDxeEIasG+43EP82JhTmgpktrw4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 12:41:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/wrydAi030slZSgmZDxeEIasG+43EP82JhTmgpktrw4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/111111.5yxzihjpxu.png",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\111111.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25674"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nTxHo9xvFVQeZNMDK3+XzF+/SMlNNnhtg01to9PYOaE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 11:43:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5yxzihjpxu"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/111111.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nTxHo9xvFVQeZNMDK3+XzF+/SMlNNnhtg01to9PYOaE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/111111.png",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\111111.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25674"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nTxHo9xvFVQeZNMDK3+XzF+/SMlNNnhtg01to9PYOaE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 11:43:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nTxHo9xvFVQeZNMDK3+XzF+/SMlNNnhtg01to9PYOaE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/123.1q3fbqb76q.jpg",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\123.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "276748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mcNwpM0aiMR3i/VOoOb0FJMOUdBZdV6Lh2tbvDmhCPw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 16:13:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1q3fbqb76q"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/123.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mcNwpM0aiMR3i/VOoOb0FJMOUdBZdV6Lh2tbvDmhCPw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/123.jpg",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\123.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "276748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mcNwpM0aiMR3i/VOoOb0FJMOUdBZdV6Lh2tbvDmhCPw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 16:13:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mcNwpM0aiMR3i/VOoOb0FJMOUdBZdV6Lh2tbvDmhCPw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/123.jva2ms8y1f.png",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\123.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2784082"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cZZmQD9ZrubaR6cemWPbnPFzgJbID1H+nXXA/QR8a4Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 11:40:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jva2ms8y1f"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/123.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cZZmQD9ZrubaR6cemWPbnPFzgJbID1H+nXXA/QR8a4Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/123.png",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\123.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2784082"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cZZmQD9ZrubaR6cemWPbnPFzgJbID1H+nXXA/QR8a4Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 11:40:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cZZmQD9ZrubaR6cemWPbnPFzgJbID1H+nXXA/QR8a4Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/55.png",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\55.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I0T1uSahjmAPSmfvkjPbhzoHqDHaoUTtpHi2cntPVpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 16:18:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I0T1uSahjmAPSmfvkjPbhzoHqDHaoUTtpHi2cntPVpA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/55.vd38l3emhu.png",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\55.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I0T1uSahjmAPSmfvkjPbhzoHqDHaoUTtpHi2cntPVpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 16:18:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vd38l3emhu"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/55.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I0T1uSahjmAPSmfvkjPbhzoHqDHaoUTtpHi2cntPVpA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/7777.png",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\7777.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "175025"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ssRUfQvTXmH5BKWLLRKr0waZ4Q+USjKXpceSQfD755k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 11:10:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ssRUfQvTXmH5BKWLLRKr0waZ4Q+USjKXpceSQfD755k="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/7777.ybyqbk1h4p.png",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\7777.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "175025"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ssRUfQvTXmH5BKWLLRKr0waZ4Q+USjKXpceSQfD755k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 11:10:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ybyqbk1h4p"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/7777.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ssRUfQvTXmH5BKWLLRKr0waZ4Q+USjKXpceSQfD755k="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/796832.223m0wtjxa.jpg",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\796832.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "294652"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bjf/VpqKSay2rgbxa/YdD6KzvQ9J22FcnzyICZGHZT8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 16:19:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "223m0wtjxa"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/796832.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bjf/VpqKSay2rgbxa/YdD6KzvQ9J22FcnzyICZGHZT8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/796832.jpg",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\796832.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "294652"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bjf/VpqKSay2rgbxa/YdD6KzvQ9J22FcnzyICZGHZT8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 16:19:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bjf/VpqKSay2rgbxa/YdD6KzvQ9J22FcnzyICZGHZT8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/888888.3r8aoxjs2v.png",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\888888.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63570"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MUl3ueA2UJzqvEjz34qvE4ZFPNBUg4N6/VHqiXcoaPo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 16:34:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3r8aoxjs2v"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/888888.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MUl3ueA2UJzqvEjz34qvE4ZFPNBUg4N6/VHqiXcoaPo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/888888.png",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\888888.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63570"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MUl3ueA2UJzqvEjz34qvE4ZFPNBUg4N6/VHqiXcoaPo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 16:34:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MUl3ueA2UJzqvEjz34qvE4ZFPNBUg4N6/VHqiXcoaPo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Ahmed_Hussein.dvlbs6gzgk.jpg",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\Ahmed_Hussein.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30340"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h4j2U9rrSXXCqgNn82fENmXhXoRK6eqJp4RDa1v5fkQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 21:45:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dvlbs6gzgk"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Ahmed_Hussein.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h4j2U9rrSXXCqgNn82fENmXhXoRK6eqJp4RDa1v5fkQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Ahmed_Hussein.jpg",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\Ahmed_Hussein.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30340"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h4j2U9rrSXXCqgNn82fENmXhXoRK6eqJp4RDa1v5fkQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 21:45:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h4j2U9rrSXXCqgNn82fENmXhXoRK6eqJp4RDa1v5fkQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/biling.png",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\biling.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92510"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XOLqmhrhCXiwKAgRY3Evg6JXl+4h0aYba6RYaK2ZeTE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 16:05:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XOLqmhrhCXiwKAgRY3Evg6JXl+4h0aYba6RYaK2ZeTE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/biling.wpom3x3fyd.png",
+      "AssetFile": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\wwwroot\\uploads\\biling.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92510"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XOLqmhrhCXiwKAgRY3Evg6JXl+4h0aYba6RYaK2ZeTE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 16:05:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wpom3x3fyd"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/biling.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XOLqmhrhCXiwKAgRY3Evg6JXl+4h0aYba6RYaK2ZeTE="
+        }
+      ]
+    }
+  ]
+}

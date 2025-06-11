@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E35FDBD-A9F7-40A3-8A54-8CB2F71BABA2}|Authentication2\\Authentication2.csproj|d:\\backend-environment\\projects-can-remove\\now\\now_v5-develope mode\\authentication2\\authentication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E35FDBD-A9F7-40A3-8A54-8CB2F71BABA2}|Authentication2\\Authentication2.csproj|solutionrelative:authentication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E35FDBD-A9F7-40A3-8A54-8CB2F71BABA2}|Authentication2\\Authentication2.csproj|d:\\backend-environment\\projects-can-remove\\now\\now_v5-develope mode\\authentication2\\authentication2\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E35FDBD-A9F7-40A3-8A54-8CB2F71BABA2}|Authentication2\\Authentication2.csproj|solutionrelative:authentication2\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E35FDBD-A9F7-40A3-8A54-8CB2F71BABA2}|Authentication2\\Authentication2.csproj|d:\\backend-environment\\projects-can-remove\\now\\now_v5-develope mode\\authentication2\\authentication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E35FDBD-A9F7-40A3-8A54-8CB2F71BABA2}|Authentication2\\Authentication2.csproj|solutionrelative:authentication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MedicineController.cs",
+              "DocumentMoniker": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\Controllers\\MedicineController.cs",
+              "RelativeDocumentMoniker": "Authentication2\\Controllers\\MedicineController.cs",
+              "ToolTip": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\Controllers\\MedicineController.cs",
+              "RelativeToolTip": "Authentication2\\Controllers\\MedicineController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:53:30.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\Program.cs",
+              "RelativeDocumentMoniker": "Authentication2\\Program.cs",
+              "ToolTip": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\Program.cs",
+              "RelativeToolTip": "Authentication2\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACEAAACsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:54:51.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\appsettings.json",
+              "RelativeDocumentMoniker": "Authentication2\\appsettings.json",
+              "ToolTip": "D:\\backend-Environment\\Projects-Can-Remove\\now\\now_V5-develope mode\\Authentication2\\Authentication2\\appsettings.json",
+              "RelativeToolTip": "Authentication2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-08T18:49:56.443Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
